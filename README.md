@@ -28,4 +28,4 @@ it uses using a typical binary classification scheme based on Gaussian Processes
 Zhang, Jing, Xindong Wu, and Victor S. Sheng. "Imbalanced multiple noisy labeling." IEEE Transactions on Knowledge and Data Engineering 27.2 (2015): 489-503.
 
 
-#Note: For KAAR, GPC-MV and GPC-PLAT
+# Note: For KAAR, GPC-MV and GPC-PLAT it is necessary to use GPmat (https://github.com/SheffieldML/GPmat). Moreover, for MA-DGRL, MA-MAE, MA-LFC it is necessary to use netlab (https://github.com/sods/netlab) 
