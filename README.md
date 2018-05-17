@@ -26,3 +26,6 @@ Rodrigues, Filipe, Francisco Pereira, and Bernardete Ribeiro. "Learning from mul
 it uses using a typical binary classification scheme based on Gaussian Processes, where the unknown gold standard is estimated by using the Positive LAbel frequency Threshold--(PLAT) algorithm, which is described in the document 
 
 Zhang, Jing, Xindong Wu, and Victor S. Sheng. "Imbalanced multiple noisy labeling." IEEE Transactions on Knowledge and Data Engineering 27.2 (2015): 489-503.
+
+
+#Note: For KAAR, GPC-MV and GPC-PLAT
