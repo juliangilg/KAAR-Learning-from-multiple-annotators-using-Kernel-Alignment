@@ -29,3 +29,6 @@ Zhang, Jing, Xindong Wu, and Victor S. Sheng. "Imbalanced multiple noisy labelin
 
 
 ### Note: For KAAR, GPC-MV and GPC-PLAT it is necessary to use GPmat (https://github.com/SheffieldML/GPmat). Moreover, for MA-DGRL, MA-MAE, MA-LFC it is necessary to use netlab (https://github.com/sods/netlab) 
+
+
+Please, if you use this code, cite this [paper](https://www.sciencedirect.com/science/article/abs/pii/S0167865518307888)
